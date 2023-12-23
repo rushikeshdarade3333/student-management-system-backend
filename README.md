@@ -12,7 +12,7 @@
 The Student Management System is a Spring Boot-based web application designed for efficient management of student data. This application provides RESTful endpoints for creating, retrieving, updating, and deleting student information, making it a versatile solution for student-related operations in various applications.
 This part covers the backend of the Student management system.
 
-click for the frontend code -  [![Frontend](https://img.shields.io/badge/Backend-Link%20Here-brightgreen.svg)](https://github.com/rushikeshdarade3333/student-management-system-frontend)
+click for the frontend code -  [![Frontend](https://img.shields.io/badge/Frontend-Link%20Here-brightgreen.svg)](https://github.com/rushikeshdarade3333/student-management-system-frontend)
 
 ## Developer
 
